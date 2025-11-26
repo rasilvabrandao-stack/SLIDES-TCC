@@ -5,4 +5,5 @@ services:
     plan: free
     buildCommand: npm run build
     startCommand: npm run preview
-    root: /
+    root: ia-na-escola---apresentação (2)
+    publish: ia-na-escola---apresentação (2)/dist
